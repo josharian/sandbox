@@ -1292,7 +1292,6 @@
 	<string>&lt;br /&gt;A helpful reader has provided an &lt;a href="http://userscripts.org/scripts/show/128626"&gt;s/keyboard/leopard/ user script&lt;/a&gt;.</string>
 	<key>num</key>
 	<integer>1031</integer>
-	<key>safe_title</key>
 	<string>s/keyboard/leopard/</string>
 	<key>title</key>
 	<string>s/keyboard/leopard/</string>
